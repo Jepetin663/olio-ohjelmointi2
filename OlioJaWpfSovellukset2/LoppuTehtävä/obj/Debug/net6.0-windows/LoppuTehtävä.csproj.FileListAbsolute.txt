@@ -1,0 +1,11 @@
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWpfSovellukset2\LoppuTehtävä\obj\Debug\net6.0-windows\LoppuTehtävä.csproj.AssemblyReference.cache
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWpfSovellukset2\LoppuTehtävä\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWpfSovellukset2\LoppuTehtävä\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWpfSovellukset2\LoppuTehtävä\obj\Debug\net6.0-windows\LoppuTehtävä_MarkupCompile.cache
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWpfSovellukset2\LoppuTehtävä\obj\Debug\net6.0-windows\LoppuTehtävä_MarkupCompile.lref
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWpfSovellukset2\LoppuTehtävä\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWpfSovellukset2\LoppuTehtävä\obj\Debug\net6.0-windows\LoppuTehtävä.g.resources
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWpfSovellukset2\LoppuTehtävä\obj\Debug\net6.0-windows\LoppuTehtävä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWpfSovellukset2\LoppuTehtävä\obj\Debug\net6.0-windows\LoppuTehtävä.AssemblyInfoInputs.cache
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWpfSovellukset2\LoppuTehtävä\obj\Debug\net6.0-windows\LoppuTehtävä.AssemblyInfo.cs
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWpfSovellukset2\LoppuTehtävä\obj\Debug\net6.0-windows\LoppuTehtävä.csproj.CoreCompileInputs.cache

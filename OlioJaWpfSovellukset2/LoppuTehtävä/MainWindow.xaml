@@ -1,0 +1,36 @@
+﻿<Window x:Class="LoppuTehtävä.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Yhteystietosovellus" Height="350" Width="500">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="10">
+            <TextBlock Text="Nimi:" VerticalAlignment="Center"/>
+            <TextBox x:Name="NimiTextBox" Width="150" Margin="5"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="10">
+            <TextBlock Text="Ikä:" VerticalAlignment="Center"/>
+            <TextBox x:Name="IkaTextBox" Width="50" Margin="5"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" Margin="10">
+            <TextBlock Text="Opiskelijanumero:" VerticalAlignment="Center"/>
+            <TextBox x:Name="OpiskelijaNumeroTextBox" Width="150" Margin="5"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="3" Orientation="Horizontal" Margin="10">
+            <Button Content="Lisää henkilö" Click="LisaaHenkiloButton_Click"/>
+            <Button Content="Tallenna tiedosto" Click="TallennaTiedostoButton_Click" Margin="10,0,0,0"/>
+        </StackPanel>
+
+        <ListBox x:Name="HenkiloListBox" Grid.Row="4" Margin="10"/>
+    </Grid>
+</Window>
