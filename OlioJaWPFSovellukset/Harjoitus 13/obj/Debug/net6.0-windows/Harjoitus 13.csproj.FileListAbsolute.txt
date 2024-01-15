@@ -1,0 +1,10 @@
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Harjoitus 13\obj\Debug\net6.0-windows\Harjoitus 13.csproj.AssemblyReference.cache
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Harjoitus 13\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Harjoitus 13\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Harjoitus 13\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Harjoitus 13\obj\Debug\net6.0-windows\Harjoitus 13_MarkupCompile.cache
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Harjoitus 13\obj\Debug\net6.0-windows\Harjoitus 13.g.resources
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Harjoitus 13\obj\Debug\net6.0-windows\Harjoitus 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Harjoitus 13\obj\Debug\net6.0-windows\Harjoitus 13.AssemblyInfoInputs.cache
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Harjoitus 13\obj\Debug\net6.0-windows\Harjoitus 13.AssemblyInfo.cs
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Harjoitus 13\obj\Debug\net6.0-windows\Harjoitus 13.csproj.CoreCompileInputs.cache

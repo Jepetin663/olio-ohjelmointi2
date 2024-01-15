@@ -1,0 +1,20 @@
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Tehtava 13 B O S S\obj\Debug\net6.0-windows\Tehtava 13 B O S S.csproj.AssemblyReference.cache
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Tehtava 13 B O S S\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Tehtava 13 B O S S\obj\Debug\net6.0-windows\Tehtava 13 B O S S_MarkupCompile.cache
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Tehtava 13 B O S S\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Tehtava 13 B O S S\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Tehtava 13 B O S S\obj\Debug\net6.0-windows\Tehtava 13 B O S S.g.resources
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Tehtava 13 B O S S\obj\Debug\net6.0-windows\Tehtava 13 B O S S.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Tehtava 13 B O S S\obj\Debug\net6.0-windows\Tehtava 13 B O S S.AssemblyInfoInputs.cache
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Tehtava 13 B O S S\obj\Debug\net6.0-windows\Tehtava 13 B O S S.AssemblyInfo.cs
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Tehtava 13 B O S S\obj\Debug\net6.0-windows\Tehtava 13 B O S S.csproj.CoreCompileInputs.cache
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Tehtava 13 B O S S\bin\Debug\net6.0-windows\Tehtava 13 B O S S.exe
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Tehtava 13 B O S S\bin\Debug\net6.0-windows\Tehtava 13 B O S S.deps.json
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Tehtava 13 B O S S\bin\Debug\net6.0-windows\Tehtava 13 B O S S.runtimeconfig.json
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Tehtava 13 B O S S\bin\Debug\net6.0-windows\Tehtava 13 B O S S.dll
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Tehtava 13 B O S S\bin\Debug\net6.0-windows\Tehtava 13 B O S S.pdb
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Tehtava 13 B O S S\obj\Debug\net6.0-windows\Tehtava 13 B O S S.dll
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Tehtava 13 B O S S\obj\Debug\net6.0-windows\refint\Tehtava 13 B O S S.dll
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Tehtava 13 B O S S\obj\Debug\net6.0-windows\Tehtava 13 B O S S.pdb
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Tehtava 13 B O S S\obj\Debug\net6.0-windows\Tehtava 13 B O S S.genruntimeconfig.cache
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset\Tehtava 13 B O S S\obj\Debug\net6.0-windows\ref\Tehtava 13 B O S S.dll
