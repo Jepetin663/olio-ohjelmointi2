@@ -1,0 +1,28 @@
+﻿<Window x:Class="LottoApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Lotto App" Height="400" Width="600">
+    <Grid>
+        <StackPanel Margin="10">
+            <TextBlock Text="Monta riviä haluat tulostaa:"/>
+            <TextBox x:Name="txtNumberOfRows" Width="100" Margin="0,0,0,10"/>
+
+            <Button Content="Tulosta" Click="TulostaButton_Click" Width="100" Margin="0,0,0,10"/>
+            <Button Content="Tyhjennä" Click="TyhjennaButton_Click" Width="100" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Valitse peli:"/>
+            <ComboBox x:Name="cmbPelivalinta" Width="100" Margin="0,0,0,10">
+                <ComboBoxItem Content="Lotto"/>
+                <ComboBoxItem Content="Viking Lotto"/>
+                <ComboBoxItem Content="Eurojackpot"/>
+            </ComboBox>
+
+            <Button Content="Viikon arvonta" Click="ViikonArvontaButton_Click" Width="150" Margin="0,0,0,10"/>
+            <Button Content="Tarkasta" Click="TarkastaButton_Click" Width="150" Margin="0,0,0,10"/>
+
+            <ScrollViewer VerticalScrollBarVisibility="Auto" Height="200">
+                <TextBlock x:Name="txtArvotutRivit"/>
+            </ScrollViewer>
+        </StackPanel>
+    </Grid>
+</Window>

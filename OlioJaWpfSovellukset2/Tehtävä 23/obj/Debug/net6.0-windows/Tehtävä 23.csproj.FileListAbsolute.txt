@@ -1,0 +1,20 @@
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset2\Tehtävä 23\bin\Debug\net6.0-windows\Tehtävä 23.exe
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset2\Tehtävä 23\bin\Debug\net6.0-windows\Tehtävä 23.deps.json
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset2\Tehtävä 23\bin\Debug\net6.0-windows\Tehtävä 23.runtimeconfig.json
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset2\Tehtävä 23\bin\Debug\net6.0-windows\Tehtävä 23.dll
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset2\Tehtävä 23\bin\Debug\net6.0-windows\Tehtävä 23.pdb
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset2\Tehtävä 23\obj\Debug\net6.0-windows\Tehtävä 23.csproj.AssemblyReference.cache
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset2\Tehtävä 23\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset2\Tehtävä 23\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset2\Tehtävä 23\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset2\Tehtävä 23\obj\Debug\net6.0-windows\Tehtävä 23_MarkupCompile.cache
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset2\Tehtävä 23\obj\Debug\net6.0-windows\Tehtävä 23.g.resources
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset2\Tehtävä 23\obj\Debug\net6.0-windows\Tehtävä 23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset2\Tehtävä 23\obj\Debug\net6.0-windows\Tehtävä 23.AssemblyInfoInputs.cache
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset2\Tehtävä 23\obj\Debug\net6.0-windows\Tehtävä 23.AssemblyInfo.cs
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset2\Tehtävä 23\obj\Debug\net6.0-windows\Tehtävä 23.csproj.CoreCompileInputs.cache
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset2\Tehtävä 23\obj\Debug\net6.0-windows\Tehtävä 23.dll
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset2\Tehtävä 23\obj\Debug\net6.0-windows\refint\Tehtävä 23.dll
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset2\Tehtävä 23\obj\Debug\net6.0-windows\Tehtävä 23.pdb
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset2\Tehtävä 23\obj\Debug\net6.0-windows\Tehtävä 23.genruntimeconfig.cache
+C:\Users\jere.kekkinen\git\ekarepositorio\Jepetin663\olio-ohjelmointi2\OlioJaWPFSovellukset2\Tehtävä 23\obj\Debug\net6.0-windows\ref\Tehtävä 23.dll
